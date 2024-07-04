@@ -1,0 +1,57 @@
+.tracking-page {
+  max-width: 850px;
+  margin: 90px auto 200px auto;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.orders-page-link {
+  color: rgb(1, 124, 182);
+  cursor: pointer;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.arrival-details {
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.product-info {
+  margin-bottom: 3px;
+}
+
+.product-picture {
+  max-width: 150px;
+  max-height: 150px;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+.shipping-status {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+.current-status {
+  color: rgb(6, 125, 98);
+}
+
+.progress-bar-container {
+  border: 1px solid rgb(200, 200, 200);;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  height: 25px;
+}
+
+.progress-bar {
+  width: 50%;
+  height: 100%;
+  background-color: green;
+  border-radius: 12px;
+}
+
